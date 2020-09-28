@@ -5,6 +5,6 @@ public class Test_1
   int a,b,c; 
   a=Integer.parseInt(args[0]);
   b=Integer.parseInt(args[1]);
-  System.out.println(a);  
+  System.out.  
  }
 }
